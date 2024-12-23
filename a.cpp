@@ -28,3 +28,7 @@ int query(string s)
     }
     return res;
 }
+int main()
+{
+    return query(123);
+}
