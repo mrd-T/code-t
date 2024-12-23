@@ -30,5 +30,5 @@ int query(string s)
 }
 int main()
 {
-    return query(123);
+    return query("123");
 }
